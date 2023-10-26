@@ -5,7 +5,7 @@ The Dataset includes gas turbine parameters (such as Turbine Inlet Temperature a
 
 
 
-Problem statement: predicting turbine energy yield (TEY) using ambient variables as features.
+<b>Problem statement:</b> predicting turbine energy yield (TEY) using ambient variables as features.
 
 
 
